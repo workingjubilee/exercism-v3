@@ -6,9 +6,10 @@ The Concept Exercises are based on this [list of concepts][reference-shared].
 
 These are the Concept Exercises that have currently been implemented, as well as the Concepts they teach and their prerequisite concepts:
 
-| exercise                              | concepts        | prerequisites |
-| ------------------------------------- | --------------- | ------------- |
-| [`strings`][concept-exercise-strings] | `strings-basic` | -             |
+| exercise                                                            | concepts                                   | prerequisites                                                       |
+| ------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------- |
+| [`numbers-floating-point`][concept-exercise-numbers-floating-point] | `numbers-floating-point`<br/>`loops-while` | `numbers-basic`<br/>`type-conversion-numbers`<br/>`conditionals-if` |
+| [`strings`][concept-exercise-strings]                               | `strings-basic`                            | -                                                                   |
 
 **⚠ Note ⚠**: The idea here is to use a `concept` name for the exercise/folder, but perhaps use some sort of "progression", so they will naturally become a sort of path to traverse. For example, the `numbers` exercise only teaches basic number usage, and the `numbers-floating-point` exercise builds on that and digs deeper into floating-point numbers.
 
