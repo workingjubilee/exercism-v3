@@ -11,7 +11,7 @@ These are the Concept Exercises that have currently been implemented, as well as
 | [`dates`][concept-exercise-dates]     | `dates-basic`<br/>`time-basic`                                      | `numbers-basic`<br/>`strings-basic` |
 | [`strings`][concept-exercise-strings] | `strings-basic`                                                     | -                                   |
 | [`numbers`][concept-exercise-numbers] | `numbers-basic`<br/>`type-conversion-numbers`<br/>`conditionals-if` | -                                   |
-| [`values`][concept-exercise-values]   | `values-basic`<br/>`type-inference-basic`<br/>`immutability-basic`  | -                                   |
+| [`values`][concept-exercise-values]   | `bindings-basic`<br/>`functions-basic`<br/>`type-inference-basic`   | -                                   |
 
 **⚠ Note ⚠**: The idea here is to use a `concept` name for the exercise/folder, but perhaps use some sort of "progression", so they will naturally become a sort of path to traverse. For example, the `numbers` exercise only teaches basic number usage, and the `numbers-floating-point` exercise builds on that and digs deeper into floating-point numbers.
 
